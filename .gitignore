@@ -1,0 +1,8 @@
+config.h
+*.crt
+*.bin
+*.elf
+*.hex
+*.spk
+.DS_Store
+Thumbs.db
