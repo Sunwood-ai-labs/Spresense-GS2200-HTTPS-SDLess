@@ -1,5 +1,7 @@
 # Spresense-GS2200-HTTPS-SDLess
 
+![header](header.jpg)
+
 Sony Spresense と GainSpan GS2200 WiFi モジュールを使用した HTTPS クライアントの実装例です。SD カードを使用せずに証明書をロードし、HTTPS (TLS 1.2) 通信を実現します。
 
 ## 特徴
