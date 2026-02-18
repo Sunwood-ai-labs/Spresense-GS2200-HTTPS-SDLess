@@ -1,5 +1,13 @@
 # Spresense-GS2200-HTTPS-SDLess
 
+[![Lab](https://img.shields.io/badge/Lab-Sunwood%20AI%20Labs-orange?style=flat-square)](https://github.com/Sunwood-ai-labs)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
+![Framework](https://img.shields.io/badge/Framework-Arduino-00979D?style=flat-square&logo=arduino)
+![Hardware](https://img.shields.io/badge/Hardware-Sony%20Spresense-000000?style=flat-square)
+![WiFi](https://img.shields.io/badge/WiFi-GainSpan%20GS2200-blue?style=flat-square)
+![Protocol](https://img.shields.io/badge/Protocol-HTTPS%20%2F%20TLS%201.2-green?style=flat-square)
+![License](https://img.shields.io/badge/License-LGPL%202.1-blue.svg?style=flat-square)
+
 ![header](header.jpg)
 
 Sony Spresense と GainSpan GS2200 WiFi モジュールを使用した HTTPS クライアントの実装例です。SD カードを使用せずに証明書をロードし、HTTPS (TLS 1.2) 通信を実現します。
